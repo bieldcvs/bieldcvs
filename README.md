@@ -24,6 +24,8 @@ Atualmente, estou me aprofundando no mundo do desenvolvimento com o framework Ne
  <img align="center" alt="Gabriel-NestJs" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
  <img align="center" alt="Gabriel-PostgresSQL" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
  <img align="center" alt="Gabriel-SQLite" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" >
+ <img align="center" alt="Gabriel-Sequelize" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" >
+ 
  </div>
  
  ## 
