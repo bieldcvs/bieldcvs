@@ -1,7 +1,5 @@
   ### Olá! Meu nome e Gabriel , bem vindo ao meu GitHub !!! 😊
-  
-  - 🌱 Estudando NestJs
-  - 😄 Ele/Dele
+
   <div>
   <a href="https://github.com/bieldcvs/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bieldcvs&layout=compact&langs_count=8&card_width=320" />
